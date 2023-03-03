@@ -1,3 +1,5 @@
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=HomeYou&uri=https%3A%2F%2Fgithub.com%2FHomeYou-Kenzie-Academy-t15-g4%2FInsomnia%2Fblob%2Fmain%2FHomeYouInsomnia)
+
 # json-server-base
 
 Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configurada, feita para ser usada no desenvolvimento das API's nos Projetos Front-end.
