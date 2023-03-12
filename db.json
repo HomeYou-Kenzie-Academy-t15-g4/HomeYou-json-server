@@ -1,5 +1,5 @@
 {
-  "users": [    
+  "users": [
     {
       "email": "dev@junior.com",
       "password": "$2a$10$aZvgQTi.8Pz./jgJNOYoVeFN2u/wuWcSZUQEIYo3oKdX1TIy5y/py",
@@ -9,58 +9,246 @@
       "id": 1
     }
   ],
-  "houses": [
+  "houses": [    
     {
-      "id": 1,
-      "name": "Casa Kenzie",
+      "name": "Conforto Na Montanha",
+      "ownerName": "Junior Homeyou",
       "userId": 1,
-      "ownerName": "Kenzinho",
       "photos": [
-        "link"
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(2).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(1).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(3).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(4).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(5).jpg"
       ],
-      "city": "São Paulo",
-      "state": "SP",
-      "zipCode": "Casa Kenzie",
-      "daylyPrice": 200,
+      "city": "PETROPOLIS",
+      "state": "RJ",
+      "daylyPrice": 1250,
       "accommodation": {
-        "beds": 2,
-        "doubleBeds": 1
+        "beds": 4,
+        "doubleBeds": 3
       },
       "services": [
-        "Wifi",
-        "TV",
+        "Wi-Fi",
         "Cozinha",
-        "Quintal",
-        "Piscina",
-        "Produtos de Limpeza",
-        "Garagem"
-      ]
+        "Ar-Condicionado",
+        "Kit de primeiros socorros",
+        "Vista para as montanhas",
+        "Garagem privada",
+        "Estacionamento gratuito na rua",
+        "Banheira",
+        "Materiais de higiene",
+        "Sabonete corporal",
+        "Xampu",
+        "Roupas de cama",
+        "TV",
+        "Aquecedor",
+        "Cafeteira",
+        "Taças de vinho",
+        "Livros e material de leitura"
+      ],
+      "houseDesc": "Para aqueles que buscam o equilíbrio perfeito entre o luxo e a natureza.\n\nSituada em um cenário pitoresco, a casa é cercada por exuberante vegetação e oferece vistas panorâmicas das montanhas de todos os ângulos. Com uma arquitetura contemporânea e um design interior moderno, a casa oferece conforto, elegância e privacidade.\n\nCozinha gourmet totalmente equipada oferece tudo o que você precisa para preparar refeições deliciosas, enquanto a sala de jantar com vista para as montanhas proporciona um ambiente acolhedor e intimista.",
+      "id": 3
     },
     {
-      "name": "Casa Praia Kenzie",
-      "userId": 2,
-      "ownerName": "Testador",
+      "name": "Casa Amarela",
+      "ownerName": "Junior Homeyou",
+      "userId": 1,
       "photos": [
-        "link"
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa2-(4).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa2-(3).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa2-(5).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa2-(2).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa2-(1).jpg"
       ],
-      "city": "Guaruja",
+      "city": "CAMPOS DO JORDAO",
       "state": "SP",
-      "zipCode": "Casa Kenzie",
-      "daylyPrice": 300,
+      "daylyPrice": 750,
       "accommodation": {
         "beds": 3,
-        "doubleBeds": 1
+        "doubleBeds": 2
       },
       "services": [
-        "Wifi",
-        "TV",
+        "Wi-Fi",
         "Cozinha",
-        "Quintal",
-        "Piscina",
-        "Produtos de Limpeza",
-        "Garagem"
+        "Fogueira",
+        "Churrasqueira",
+        "Kit de primeiros socorros",
+        "Vista para as montanhas",
+        "Garagem privada",
+        "Banheira",
+        "Materiais de higiene",
+        "Xampu",
+        "Sabonete corporal",
+        "Roupas de cama",
+        "TV",
+        "Aquecedor",
+        "Permitido animais",
+        "Taças de vinho",
+        "Blackout nas cortinas",
+        "Limpeza disponível durante a estadia"
       ],
-      "id": 2
+      "houseDesc": "Cercada pelas belas paisagens da Serra da Mantiqueira. Com atrações turísticas próximas, esta casa é ideal para quem deseja desfrutar do clima de montanha e explorar tudo o que a cidade tem a oferecer.\n\nA casa é espaçosa e confortável, oferecendo um ambiente aconchegante e acolhedor para relaxar após um dia cheio de atividades. Conta com quartos amplos e bem iluminados, cozinha completa.\n\nNo exterior, os hóspedes podem desfrutar de um amplo quintal cercado por natureza, além de uma área de churrasqueira e um deck com vista para as montanhas.",
+      "id": 4
+    },
+    {
+      "name": "Cabana de Madeira",
+      "ownerName": "Junior Homeyou",
+      "userId": 1,
+      "photos": [
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(2).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(1).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(3).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(4).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(5).jpg"
+      ],
+      "city": "ALTO CAPARAO",
+      "state": "MG",
+      "daylyPrice": 950,
+      "accommodation": {
+        "beds": 1,
+        "doubleBeds": 3
+      },
+      "services": [
+        "Cozinha",
+        "Fogueira",
+        "Churrasqueira",
+        "Kit de primeiros socorros",
+        "Vista para as montanhas",
+        "Quintal",
+        "Estacionamento gratuito na rua",
+        "Sabonete corporal",
+        "Materiais de higiene",
+        "Xampu",
+        "Roupas de cama",
+        "Permitido animais",
+        "Taças de vinho",
+        "Livros e material de leitura"
+      ],
+      "houseDesc": "Localizada na Serra do Caparaó, a casa é cercada por trilhas ecológicas, cachoeiras e montanhas, oferecendo diversas opções de passeios e atividades ao ar livre. \n\nCom quartos espaçosos e confortáveis, cozinha equipada e uma sala de estar com lareira, a casa é ideal para quem deseja passar momentos agradáveis com a família ou amigos. O deck com vista para a montanha e o jardim paisagístico são convites irresistíveis para relaxar ao ar livre e desfrutar da natureza exuberante do local.",
+      "id": 5
+    },
+    {
+      "name": "Canto da Floresta",
+      "ownerName": "Junior Homeyou",
+      "userId": 1,
+      "photos": [
+        "https://github.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/blob/master/assets/casas/casa4-(2).jpg?raw=true",
+        "https://github.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/blob/master/assets/casas/casa4-(1).jpg?raw=true",
+        "https://github.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/blob/master/assets/casas/casa4-(3).jpg?raw=true",
+        "https://github.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/blob/master/assets/casas/casa4-(4).jpg?raw=true",
+        "https://github.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/blob/master/assets/casas/casa4-(5).jpg?raw=true"
+      ],
+      "city": "PIQUETE",
+      "state": "SP",
+      "daylyPrice": 730,
+      "accommodation": {
+        "beds": 0,
+        "doubleBeds": 2
+      },
+      "services": [
+        "Wi-Fi",
+        "Cozinha",
+        "Fogueira",
+        "Churrasqueira",
+        "Chuveiro Externo",
+        "Vista para as montanhas",
+        "Quintal",
+        "Estacionamento gratuito na rua",
+        "Banheira",
+        "Materiais de higiene",
+        "Sabonete corporal",
+        "Xampu",
+        "Roupas de cama",
+        "TV",
+        "Permitido animais",
+        "Fechadura inteligente",
+        "Torradeira",
+        "Espaço de trabalho"
+      ],
+      "houseDesc": "Localizada no meio da floresta em Piquete, onde a tranquilidade e a beleza natural da região são os ingredientes perfeitos para uma estadia relaxante e inesquecível.\n\nOferecemos um ambiente moderno e confortável, com todas as comodidades necessárias para uma estadia agradável.\n\nO terreno rodeado por árvores e vegetação exuberante, com trilhas ecológicas e cachoeiras, oferecendo tranquilidade e privacidade, além de diversas opções de passeios e atividades ao ar livre.",
+      "id": 6
+    },
+    {
+      "name": "Cabana Acolhedora",
+      "ownerName": "Junior Homeyou",
+      "userId": 1,
+      "photos": [
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa5-(2).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa5-(1).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa5-(3).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa5-(4).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa5-(5).jpg"
+      ],
+      "city": "OURO PRETO",
+      "state": "MG",
+      "daylyPrice": 845,
+      "accommodation": {
+        "beds": 0,
+        "doubleBeds": 2
+      },
+      "services": [
+        "Wi-Fi",
+        "Cozinha",
+        "Fogueira",
+        "Chuveiro Externo",
+        "Kit de primeiros socorros",
+        "Vista para as montanhas",
+        "Quintal",
+        "Garagem privada",
+        "Materiais de higiene",
+        "Sabonete corporal",
+        "Xampu",
+        "Roupas de cama",
+        "TV",
+        "Cafeteira",
+        "Liquidificador",
+        "Blackout nas cortinas",
+        "Torradeira"
+      ],
+      "houseDesc": "Nossa casa em meio à vegetação em Ouro Preto é o lugar perfeito para quem busca uma estadia tranquila e cercada pela natureza. Localizada em um terreno arborizado, a casa oferece um ambiente acolhedor e aconchegante para relaxar e desfrutar da beleza natural da região histórica.\n\nO jardim paisagístico e o deck com vista para a vegetação são convites irresistíveis para relaxar ao ar livre e desfrutar da tranquilidade do ambiente.",
+      "id": 7
+    },
+    {
+      "name": "Pouso do Mar",
+      "ownerName": "Junior Homeyou",
+      "userId": 1,
+      "photos": [
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa6-(5).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa6-(4).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa6-(2).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa6-(3).jpg",
+        "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa6-(1).jpg"
+      ],
+      "city": "UBATUBA",
+      "state": "SP",
+      "daylyPrice": 577,
+      "accommodation": {
+        "beds": 2,
+        "doubleBeds": 2
+      },
+      "services": [
+        "Wi-Fi",
+        "Cozinha",
+        "Churrasqueira",
+        "Chuveiro Externo",
+        "Kit de primeiros socorros",
+        "Quintal",
+        "Garagem privada",
+        "Materiais de higiene",
+        "Sabonete corporal",
+        "Xampu",
+        "Roupas de cama",
+        "Ferro de passar",
+        "TV",
+        "Berço",
+        "Permitido animais",
+        "Fechadura inteligente",
+        "Ventiladores portáteis",
+        "Limpeza disponível durante a estadia"
+      ],
+      "houseDesc": "Com quartos espaçosos, cozinha equipada e áreas de convivência confortáveis, a casa é ideal para passar momentos agradáveis com a família ou amigos. O quintal com churrasqueira é perfeito para um happy hour após um dia na praia.\n\nA casa fica em uma região com diversas opções de praias e atividades aquáticas, como surf, stand-up paddle e mergulho, proporcionando uma experiência completa para quem deseja explorar a região. Além disso, está próxima a restaurantes, bares e comércios locais, oferecendo praticidade e comodidade aos hóspedes.",
+      "id": 8
     }
   ],
   "rents": [
