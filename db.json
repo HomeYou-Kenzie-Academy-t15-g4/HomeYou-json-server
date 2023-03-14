@@ -23,7 +23,7 @@
       ],
       "city": "PETROPOLIS",
       "state": "RJ",
-      "daylyPrice": 1250,
+      "dailyPrice": 1250,
       "accommodation": {
         "beds": 4,
         "doubleBeds": 3
@@ -63,7 +63,7 @@
       ],
       "city": "CAMPOS DO JORDAO",
       "state": "SP",
-      "daylyPrice": 750,
+      "dailyPrice": 750,
       "accommodation": {
         "beds": 3,
         "doubleBeds": 2
@@ -104,7 +104,7 @@
       ],
       "city": "ALTO CAPARAO",
       "state": "MG",
-      "daylyPrice": 950,
+      "dailyPrice": 950,
       "accommodation": {
         "beds": 1,
         "doubleBeds": 3
@@ -141,7 +141,7 @@
       ],
       "city": "PIQUETE",
       "state": "SP",
-      "daylyPrice": 730,
+      "dailyPrice": 730,
       "accommodation": {
         "beds": 0,
         "doubleBeds": 2
@@ -182,7 +182,7 @@
       ],
       "city": "OURO PRETO",
       "state": "MG",
-      "daylyPrice": 845,
+      "dailyPrice": 845,
       "accommodation": {
         "beds": 0,
         "doubleBeds": 2
@@ -222,7 +222,7 @@
       ],
       "city": "UBATUBA",
       "state": "SP",
-      "daylyPrice": 577,
+      "dailyPrice": 577,
       "accommodation": {
         "beds": 2,
         "doubleBeds": 2
