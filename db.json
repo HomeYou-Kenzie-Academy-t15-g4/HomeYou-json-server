@@ -7,9 +7,17 @@
       "age": 29,
       "img": "https://cdn.discordapp.com/attachments/1080736903537639494/1084598734039560322/6c28281b-5bd1-40bd-991b-5429b4e6c944.jpg",
       "id": 1
+    },
+    {
+      "email": "notob2868911@crtsec.com",
+      "password": "$2a$10$Wgr.BthFepQJCa83.0C.re0aT0xO8fw7jppZJUt0cKYetQ4nVp0bK",
+      "name": "notob2868911@crtsec.com",
+      "age": 1809,
+      "img": "https://cdn.discordapp.com/attachments/1080736903537639494/1085117335439937576/5766b8e3-5b64-4b79-87c0-067818bf66bf.jpg",
+      "id": 2
     }
   ],
-  "houses": [    
+  "houses": [
     {
       "name": "Conforto Na Montanha",
       "ownerName": "Junior Homeyou",
@@ -253,25 +261,33 @@
   ],
   "rents": [
     {
+      "rentedDays": [
+        "2023-08-16T03:00:00.000Z",
+        "2023-08-17T03:00:00.000Z",
+        "2023-08-18T03:00:00.000Z",
+        "2023-08-19T03:00:00.000Z",
+        "2023-08-20T03:00:00.000Z",
+        "2023-08-21T02:59:59.999Z"
+      ],
+      "guestNumber": "4",
       "userId": 2,
+      "rentPrice": 3876,
+      "guest": {
+        "photo": "",
+        "name": "notob2868911@crtsec.com"
+      },
       "house": {
-        "id": 1,
-        "name": "Conforto Na Montanha",
+        "id": 3,
+        "name": "Cabana de Madeira",
         "photos": [
-          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(2).jpg",
-          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(1).jpg",
-          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(3).jpg",
-          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(4).jpg",
-          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa1-(5).jpg"
+          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(2).jpg",
+          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(1).jpg",
+          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(3).jpg",
+          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(4).jpg",
+          "https://raw.githubusercontent.com/HomeYou-Kenzie-Academy-t15-g4/HomeYou-json-server/master/assets/casas/casa3-(5).jpg"
         ]
       },
-      "guest": {
-        "photo": "link",
-        "name": "Testador2"
-      },
-      "rentedDays": [],
-      "rentPrice": 600,
-      "id": 2
+      "id": 101
     }
   ]
 }
